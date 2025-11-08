@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Informasi MTsN 1 Ciamis",
+  "description": "A comprehensive and modern Madrasah Information System for MTsN 1 Ciamis, providing easy access to student data, teacher directories, class schedules, announcements, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
